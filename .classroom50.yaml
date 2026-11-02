@@ -1,0 +1,13 @@
+schema: "classroom50/repo-config/v1"
+classroom: "nit-programming-language-2026"
+assignment: "k0508"
+secret: "nmm2dsr0"
+owner:
+  username: "126R111"
+  id: 334771140
+  accepted_at: "2026-11-02T04:46:54Z"
+source:
+  owner: "nit-robotics-ProgrammingLanguage-2026"
+  owner_id: 326343566
+  repo: "template-task0508-ai_vs_human"
+  branch: "main"
